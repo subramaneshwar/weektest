@@ -1,0 +1,8 @@
+.head{
+    /* border: solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    color: blue;
+}
